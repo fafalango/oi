@@ -16,7 +16,7 @@ html, body {
     color: white;
     text-decoration: none
 }
-#contentindex{
+.contentindex{
     margin: 10px;
 }
 .contenttags{
