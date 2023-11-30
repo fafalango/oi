@@ -15,4 +15,10 @@ html, body {
 .top-bar a{
     color: white;
     text-decoration: none
-  }
+}
+#contentindex{
+    margin: 10px;
+}
+.contenttags{
+    margin: 10px;
+}
